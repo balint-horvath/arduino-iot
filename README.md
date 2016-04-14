@@ -1,3 +1,6 @@
+# About
+This is a laboratory project to show you how to do some IoT hacks with Arduino.
+*Controlling and Sensing Solutions on Web Interface (Arduino & IoT)*
 
 ## What can we create?
 [![Arduino IoT Basics](http://cdn.balint.business/blog/images/posts/arduino-home-automation-basics/arduino-light-control-temperature-sensor-web-interface.jpeg)](http://www.youtube.com/watch?v=SNRF6GZxBSs)
